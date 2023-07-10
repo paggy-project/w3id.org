@@ -16,25 +16,26 @@ Administered by
 _no postal address_  
 <paggy@alwaysdata.net>  
 **Website** <https://paggy.alwaysdata.net>  
-**GitHub**  [paggy-project](https://github.com/paggy-project)  
+**GitHub** [paggy-project](https://github.com/paggy-project)
 
 ### Packages
 
-__/paggy/packages/*__
+**/paggy/packages/\***
 
 #### Package Registery
 
-**See**  <https://paggy.alwaysdata.net/~registery>
+**See** <https://paggy.alwaysdata.net/~registery>
 
 #### List of all packages
 
-**See**  <https://paggy.alwaysdata.net/+packages>
+**See** <https://paggy.alwaysdata.net/+packages>
 
 #### List of all package leader/mainainer
 
-**See**  <https://paggy.alwaysdata.net/+leaders>
+**See** <https://paggy.alwaysdata.net/+leaders>
 
 #### Major-Packages and her leader/maintainer
+
 <details>
 <summary>List of all leaders ; sorted by package name</summary>
 
