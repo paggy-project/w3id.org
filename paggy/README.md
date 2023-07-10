@@ -12,10 +12,10 @@ See <https://paggy.alwaysdata.net> for full details.
 
 Administered by
 
-**Sara 'Dolores' Tasche**  
-_no postal address_  
-<paggy@alwaysdata.net>  
-**Website** <https://paggy.alwaysdata.net>  
+**Sara 'Dolores' Tasche**
+_no postal address_
+<paggy@alwaysdata.net>
+**Website** <https://paggy.alwaysdata.net>
 **GitHub** [paggy-project](https://github.com/paggy-project)
 
 ### Packages
